@@ -1,0 +1,4 @@
+Curso Python ensinando como criar arquivos textos 
+Aula Pratica - Gerando um arquivo txt com conteudo 
+Arquivo gerado atraves do programa gravar.py 
+Executado no console
